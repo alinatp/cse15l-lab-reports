@@ -1,7 +1,9 @@
 *Hello*
+
 **Hi**
+
 # how are you
-----
+
 ## bye
 > hello
 
@@ -14,10 +16,12 @@
 3. three
 4. 
 
-'cool' very cool
+`cool` very cool
 
-'''
+---
+
+```
 # ciao
 print 'woop woop'
 print 'what are you doing'
-'''
+```
