@@ -18,7 +18,6 @@ In this section, I will be explaining how to install VScode on a macbook
 ## Remotely Connecting
 In this section, I will be explaining how to connect remotely.
 
-**Step 1:**
 * Open VScode and open a new terminal by hovering on terminal on the upper lefthandside of your screen and clicking on new terminal.
 * Then write or copy and paste into your terminal `ssh cs15lsp23zz@ieng6.ucsd.edu` but change `zz` with the letters for your course specific account.
 * If a message pops up asking for you to type yes or no, type in `yes`.
