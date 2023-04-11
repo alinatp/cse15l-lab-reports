@@ -11,7 +11,7 @@ In this section, I will be explaining how to install VScode on a macbook
 * A message will pop up asking if you are sure you want to open VScode up. When the message pops up, click open.
 * Finally, you can now open VScode on your desktop. It will look similar to the image shown below.
 
-![VScode open img](https://github.com/alinatp/cse15l-lab-reports/blob/main/images/VScode-open.png)
+![VScode open img](VScode-open.png)
 
 ---
 
@@ -23,7 +23,7 @@ In this section, I will be explaining how to connect remotely.
 * If a message pops up asking for you to type yes or no, type in `yes`.
 * If successful, you should see a similar message as the one shown below.
 
-![Remotely Connecting](https://github.com/alinatp/cse15l-lab-reports/blob/main/images/Remotely%20Connecting.png)
+![Remotely Connecting](RemotelyConnecting.png)
 
 ---
 
@@ -38,4 +38,4 @@ In this section, I will be explaining how to write commands and which commands t
 
 * Once you write those commands listed above, you should have something similar to what is shown below.
 
-![Command results](https://github.com/alinatp/cse15l-lab-reports/blob/main/images/command%20results.png)
+![Command results](results.png)
