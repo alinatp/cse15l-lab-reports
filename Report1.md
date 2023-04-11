@@ -30,8 +30,8 @@ In this section, I will be explaining how to connect remotely.
 ## Trying Some Commands
 In this section, I will be explaining how to write commands and which commands to try in your terminal.
 
-* Once you have logged in your remove server there are different commands you can try out in your terminal.
-* Start of by writing different commands like; cd, ls, pwd, mkdir, and cp to see which each commands do.
+* Once you have logged in your remote server there are different commands you can try out in your terminal.
+* Start of by writing different commands like; cd, ls, pwd, mkdir, and cp to see what each command does.
 * You can also try out the list of commands shown below.
 
 ![list of commands](https://github.com/alinatp/cse15l-lab-reports/blob/main/images/commands%20list.png)
