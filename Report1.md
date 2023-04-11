@@ -34,7 +34,7 @@ In this section, I will be explaining how to write commands and which commands t
 * Start of by writing different commands like; cd, ls, pwd, mkdir, and cp to see what each command does.
 * You can also try out the list of commands shown below.
 
-![list of commands](https://github.com/alinatp/cse15l-lab-reports/blob/main/images/commands%20list.png)
+![list of commands](commands%list.png)
 
 * Once you write those commands listed above, you should have something similar to what is shown below.
 
