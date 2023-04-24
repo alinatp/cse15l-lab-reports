@@ -36,6 +36,14 @@ In this section, I will be explaining how to write commands and which commands t
 
 ![list of commands](list.png)
 
+* `cd ~` : this will change the current working directory to the home directory
+* `cd`: this will switch the current working directory to the given path
+* `ls -lat` : this will list the files and folders of the `-lat` path
+* `ls -a` : this will list the files and folders of the `-a` path
+* `ls <directory>` where `<directory>` as `/home/linux/ieng6/cs15lsp23abc`, where the `abc` is one of the other group members' username : this will list the files and folders in the directory which your group member has
+* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/` : this will show users the locations of the files
+* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt` : this will concantenate the and print out the contents of the files
+
 * Once you write those commands listed above, you should have something similar to what is shown below.
 
 ![Command results](results.png)
