@@ -69,7 +69,7 @@ Failure-inducing input
   }
 ```
 
-output
+Output
 ![failure input](failure.png)
 
 Input that doesn’t induce a failure
@@ -82,7 +82,7 @@ Input that doesn’t induce a failure
 	}
 ```
 
-output
+Output
 ![not failure input](noFailure.png)
 
 
