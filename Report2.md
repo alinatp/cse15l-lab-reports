@@ -43,10 +43,18 @@ class StringServer {
 }
 ```
 
+`/add-message?s=hello`
+![add message hello](addMessage1.png)
+* The handleRequest method is being called.
+* The relevant arguments to those methods are the first and second if statements.
+* No values got changed because all the method does is just input the message on the screen.
 
-* Which methods in your code are called?
-* What are the relevant arguments to those methods, and the values of any relevant fields of the class?
-* How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+`/add-message?s=how are you`
+![add message how are you](addMessage2.png)
+
+* The handleRequest method is being called.
+* The relevant arguments to those methods are the first and second if statements.
+* No values got changed because all the method does it just input the message on the screen.
 
 ## Part 2
 **Symptoms and Failure-inducing Inputs (Array Methods - `reverseInPlace`)**
