@@ -110,5 +110,6 @@ After Fix
 
 ## Part 3
 **What did I learn these past weeks?**
+
 These past few weeks I learned about URls and servers. I now understand the different components that make up webservers like domain and path.
 The domain being the part of the URL after the https:// and before the first slash. The path being the part after the domain and before the ?.
