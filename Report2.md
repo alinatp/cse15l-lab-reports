@@ -29,6 +29,8 @@ Input that doesn’t induce a failure
 	}
 ```
 
+
+
 Before Fix
 ```
 static int[] reversed(int[] arr) {
