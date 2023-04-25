@@ -58,6 +58,7 @@ class StringServer {
 
 ## Part 2
 **Symptoms and Failure-inducing Inputs (Array Methods - `reverseInPlace`)**
+
 Failure-inducing input
 ```
 @Test
