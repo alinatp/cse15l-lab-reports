@@ -93,7 +93,7 @@ Input:
 find ./technical -empty
 ```
 
-Output:
+Output: With no empty text files
 ```
 
 ```
