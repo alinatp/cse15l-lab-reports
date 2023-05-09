@@ -47,7 +47,7 @@ What does it do?
  
  ---
  
- Command `-name`
+ **Command** `-name`
  
  Source: [Find Command -name](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
  
@@ -87,7 +87,7 @@ What does it do?
 
 ---
 
-Command `-empty`
+**Command** `-empty`
 
 Source: [Find Command -empty](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
 
@@ -117,7 +117,7 @@ Output: With an empty text file
    
 ---  
 
-Command `-size`
+**Command** `-size`
 
 Source: [Find command -size](https://linuxhandbook.com/find-command-examples/)
 
