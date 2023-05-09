@@ -4,6 +4,8 @@
 
 1. Command `-maxdepth`
 [Find Command -maxdepth](https://www.redhat.com/sysadmin/linux-find-command)
+
+Input:
 ```
 find ./technical -maxdepth 1
 ```
@@ -17,6 +19,7 @@ Output:
 ./technical/911report
 ```
 
+Input:
 ```
 find ./technical -maxdepth 2
 ```
@@ -44,7 +47,9 @@ What does it do?
  ---
  
  2. Command `-name`
- [Find Command](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+ [Find Command -name](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+ 
+ Input:
  ```
  find ./technical -name "*.txt"
  ```
@@ -65,6 +70,7 @@ What does it do?
 ./technical/911report/chapter-11.txt
  ```
  
+ Input:
  ```
  find ./technical -name 911report
  ```
@@ -80,7 +86,9 @@ What does it do?
 ---
 
 3. Command `-empty`
-[Find Command](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+[Find Command -empty](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+
+Input:
 ```
 find ./technical -empty
 ```
@@ -90,6 +98,7 @@ Output:
 
 ```
 
+Input:
 ```
 find ./technical -empty
 ```
@@ -106,6 +115,8 @@ Output: With an empty text file
 ---  
 4. Command `-size`
 [Find command -size](https://linuxhandbook.com/find-command-examples/)
+
+Input:
 ```
 find ./technical -size 0k
 ```
@@ -115,6 +126,7 @@ Output:
 ./technical/911report/chapter-0.txt
 ```
 
+Input:
 ```
 find ./technical -size +150k -size -2G 
 ```
