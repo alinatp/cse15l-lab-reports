@@ -2,7 +2,7 @@
 
 ## Command : `find`
 
-1.Command `-maxdepth`
+1. Command `-maxdepth`
 
 Source: [Find Command -maxdepth](https://www.redhat.com/sysadmin/linux-find-command)
 
