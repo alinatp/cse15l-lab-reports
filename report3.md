@@ -3,7 +3,8 @@
 ## Command : `find`
 
 1. Command `-maxdepth`
-[Find Command -maxdepth](https://www.redhat.com/sysadmin/linux-find-command)
+
+Source: [Find Command -maxdepth](https://www.redhat.com/sysadmin/linux-find-command)
 
 Input:
 ```
@@ -47,7 +48,8 @@ What does it do?
  ---
  
  2. Command `-name`
- [Find Command -name](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+ 
+ Source: [Find Command -name](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
  
  Input:
  ```
@@ -86,7 +88,8 @@ What does it do?
 ---
 
 3. Command `-empty`
-[Find Command -empty](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+
+Source: [Find Command -empty](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
 
 Input:
 ```
@@ -114,7 +117,8 @@ Output: With an empty text file
    
 ---  
 4. Command `-size`
-[Find command -size](https://linuxhandbook.com/find-command-examples/)
+
+Source: [Find command -size](https://linuxhandbook.com/find-command-examples/)
 
 Input:
 ```
