@@ -45,8 +45,8 @@ class StringServer {
 
 `/add-message?s=hello`
 ![add message hello](addMessage1.png)
-* The handleRequest method is being called.
-* The relevant arguments to those methods are the first and second if statements.
+* The `handleRequest` method is being called.
+* The relevant arguments to those methods are the first if statement.
 * No values got changed because all the method does is just input the message on the screen.
 
 `/add-message?s=how are you`
@@ -110,5 +110,5 @@ After Fix
 ## Part 3
 **What did I learn these past weeks?**
 
-These past few weeks I learned about URls and servers. I now understand the different components that make up webservers like domain and path.
-The domain being the part of the URL after the https:// and before the first slash. The path being the part after the domain and before the `?`.
+These past few weeks I learned about `URl`s and servers. I now understand the different components that make up webservers like domain and path.
+The domain being the part of the `URL` after the `https://` and before the first slash. The path being the part after the domain and before the `?`.
