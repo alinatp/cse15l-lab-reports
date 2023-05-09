@@ -52,7 +52,7 @@ class StringServer {
 `/add-message?s=how are you`
 ![add message how are you](addMessage2.png)
 
-* The handleRequest method is being called.
+* The `handleRequest` method is being called.
 * The relevant arguments to those methods are the first and second if statements.
 * No values got changed because all the method does it just input the message on the screen.
 
@@ -88,23 +88,22 @@ Output
 
 Before Fix
 ```
-static int[] reversed(int[] arr) {
-    int[] newArray = new int[arr.length];
+static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
-      arr[i] = newArray[arr.length - i - 1];
+      arr[i] = arr[arr.length - i - 1];
     }
-    return arr;
   }
 ```
 
 After Fix
 ```
- static int[] reversed(int[] arr) {
-    int[] newArray = new int[arr.length];
-    for(int i = 0; i < arr.length; i += 1) {
-      newArray[i] = arr[arr.length - i - 1];
+ static void reverseInPlace(int[] arr) {
+    int temp;
+    for(int i = 0; i < arr.length / 2; i += 1) {
+      temp = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = temp;
     }
-    return arr;
   }
 ```
 
@@ -112,4 +111,4 @@ After Fix
 **What did I learn these past weeks?**
 
 These past few weeks I learned about URls and servers. I now understand the different components that make up webservers like domain and path.
-The domain being the part of the URL after the https:// and before the first slash. The path being the part after the domain and before the ?.
+The domain being the part of the URL after the https:// and before the first slash. The path being the part after the domain and before the `?`.
