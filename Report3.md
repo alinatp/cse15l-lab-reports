@@ -2,7 +2,7 @@
 
 ## Command : `find`
 
-1) Command `-maxdepth`
+Command `-maxdepth`
 
 Source: [Find Command -maxdepth](https://www.redhat.com/sysadmin/linux-find-command)
 
@@ -47,7 +47,7 @@ What does it do?
  
  ---
  
- 2) Command `-name`
+ Command `-name`
  
  Source: [Find Command -name](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
  
@@ -87,7 +87,7 @@ What does it do?
 
 ---
 
-3) Command `-empty`
+Command `-empty`
 
 Source: [Find Command -empty](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
 
@@ -116,7 +116,8 @@ Output: With an empty text file
    so nothing was found. In the second example there was 1 empty text file so it returned that file. 
    
 ---  
-4) Command `-size`
+
+Command `-size`
 
 Source: [Find command -size](https://linuxhandbook.com/find-command-examples/)
 
