@@ -55,7 +55,7 @@ class StringServer {
 
 * The `handleRequest` method is being called.
 * The relevant arguments to those methods are the string `url` and the value of the field being the
-  `String`s, `How are you`.
+  `String`, `How are you`.
 * No values got changed because all the method does it just input the message on the screen.
 
 ## Part 2
