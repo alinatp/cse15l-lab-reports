@@ -46,14 +46,16 @@ class StringServer {
 `/add-message?s=hello`
 ![add message hello](addMessage1.png)
 * The `handleRequest` method is being called.
-* The relevant arguments to those methods are the first if statement.
+* The relevant arguments to those methods are the string `url` and the value of the field being the
+  `String`, `Hello`.
 * No values got changed because all the method does is just input the message on the screen.
 
 `/add-message?s=how are you`
 ![add message how are you](addMessage2.png)
 
 * The `handleRequest` method is being called.
-* The relevant arguments to those methods are the first and second if statements.
+* The relevant arguments to those methods are the string `url` and the value of the field being the
+  `String`s, `How are you`.
 * No values got changed because all the method does it just input the message on the screen.
 
 ## Part 2
