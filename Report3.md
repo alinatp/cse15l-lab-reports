@@ -42,8 +42,8 @@ Output:
 
 What does it do?
 * the `-maxdepth` command limits the depth of searches you do in the directory. In the first example the depth
- is 1 which is why only the names fo the files are show. In the second example the depth is 2 which shows
- all the text files.
+ is 1 which is why only the names for the directories are shown. In the second example the depth is 2 which shows
+ all the directories.
  
  ---
  
@@ -83,7 +83,7 @@ What does it do?
  ```
  
  What does it do?
- * The `-name` command searches the files that macthes the specific name.
+ * The `-name` command searches the files that macthes the specific name. Looking at the first example of this command, when using the command and using the star `*.txt` it will return all the files that end in txt. So not only does the `-name` command return files of a specifc name but also of specific types like a text file.
 
 ---
 
