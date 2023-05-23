@@ -2,31 +2,31 @@
 
 **Step 4** 
 Log into ieng6
-![step 4]()
+![step 4](ieng6.png)
 Keys Pressed: 
 
 **Step 5** 
 Clone your fork of the repository from your Github account
-![step 5]()
+![step 5](gitClone.png)
 Keys Pressed: 
 
 **Step 6** 
 Run the tests, demonstrating that they fail
-![step 6]()
+![step 6](test1.png)
 Keys Pressed: 
 
 **Step 7** 
 Edit the code file `ListExamples.java` to fix the failing test (as a reminder, 
 the error in the code is just that `index1` is used instead of `index2` in the final loop in `merge`)
-![step 7]()
+![step 7](vim.png)
 Keys Pressed: 
 
 **Step 8** 
 Run the tests, demonstrating that they now succeed
-![step 8]()
+![step 8](test2.png)
 Keys Pressed: 
 
 **Step 9** 
 Commit and push the resulting change to your Github account
-![step 9]()
+![step 9](commit.png)
 Keys Pressed: 
