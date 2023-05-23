@@ -32,8 +32,7 @@ the error in the code is just that `index1` is used instead of `index2` in the f
 ![step 7](vim.png)
 
 Keys Pressed: To enter to file you type in `vim ListExamples.java`. Then press `<Enter>`. Once you are in the file
-press `<up><up><up><up><up><up><Enter>`. Then press `i` to edit the file. Press `<right><right><right><right><right>
-<right><right><right><delete><2><esc>`. The to save and exit I typed `<:wq`.
+press `<up><up><up><up><up><up><Enter>`. Then press `i` to edit the file. Press `<right><right><right><right><right><right><right><right><delete><2><esc>`. Then to save and exit I typed `<:wq`.
 
 ---
 
