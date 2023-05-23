@@ -51,3 +51,5 @@ Commit and push the resulting change to your Github account
 
 Keys Pressed: I types in `git add ListExamples.java`. Then `git status` to check on the status. The I wrote `git commit -m "added ListExamples.java"`.
 Then wrote `git status` once more to check that it has successfully commited. 
+
+
