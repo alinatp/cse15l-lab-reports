@@ -11,7 +11,7 @@ Then press `<Enter>`.
 
 **Step 5** 
 Clone your fork of the repository from your Github account
-![step 5](gitClone.png)
+![step 5](https://github.com/alinatp/cse15l-lab-reports/blob/main/gitClone.png)
 
 Keys Pressed: Type in the terminal `git clone https://github.com/alinatp/lab7`. Then press `<Enter>`.
 
@@ -22,7 +22,7 @@ Run the tests, demonstrating that they fail
 ![step 6](test1.png)
 
 Keys Pressed: First type `cd lab7`. then press `<Enter>`. Then `ls` to see all the files. Then type in `bash test.sh`. 
-Then press `<Enter>`.
+Then press `<enter>`.
 
 ---
 
