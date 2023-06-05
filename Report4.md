@@ -2,7 +2,7 @@
 
 **Step 4** 
 Log into ieng6
-![step 4](https://github.com/alinatp/cse15l-lab-reports/blob/main/ieng6.png)
+![step 4](ieng6.png)
 
 Keys Pressed: type in the terminal `ssh cs15lsp23io@ieng6.ucsd.edu`. (the `io` can be changed to your specific account).
 Then press `<enter>`.
@@ -11,7 +11,7 @@ Then press `<enter>`.
 
 **Step 5** 
 Clone your fork of the repository from your Github account
-![step 5](https://github.com/alinatp/cse15l-lab-reports/blob/main/gitClone.png)
+![step 5](gitClone.png)
 
 Keys Pressed: Type in the terminal `git clone https://github.com/alinatp/lab7`. Then press `<enter>`.
 
@@ -40,7 +40,7 @@ press `<up><up><up><up><up><up><enter>`. Then press `i` to edit the file. Press 
 Run the tests, demonstrating that they now succeed
 ![step 8](test2.png)
 
-Keys Pressed: I typed in `bash test.sh`. Then press `<Enter>`.
+Keys Pressed: I typed in `bash test.sh`. Then press `<enter>`.
 
 ---
 
