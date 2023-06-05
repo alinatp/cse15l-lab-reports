@@ -2,18 +2,20 @@
 
 **Edstem Conversation**
 ![Edstem Debugging Post](post.png)
-![Edstem TA Reponse](TA-respnse.png)
+![Edstem TA Reponse](TA-response.png)
 
 **Student Implementation of Response**
 ![Terminal w/ corrections made](terminal-fixed.png)
 
-The bug came from line 26 in the grade.sh file. The line was orginally just `cd`. Changing the code to `cd ../` fixed the error.
+The bug came from line 26 in the grade.sh file. The line was orginally just `cd`. Changing the code 
+to `cd ../` fixed the error.
 
 **The Setup**
 Before Fixing the Bug
 ![Code before fixing the bug](code-broken.png)
 
 Command Line Used to Trigger Bug
+
 `bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected`
 
 **After Fixing the Bug**
