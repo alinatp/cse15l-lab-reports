@@ -48,7 +48,7 @@ Keys Pressed: I typed in `bash test.sh`. Then press `<enter>`.
 Commit and push the resulting change to your Github account
 ![step 9](commit.png)
 
-Keys Pressed: I typed in `git add ListExamples.java`. Then `git status` to check on the status. The I wrote `git commit -m "added ListExamples.java"`.
-Then wrote `git status` once more to check that it has successfully commited. 
+Keys Pressed: I typed in `git add ListExamples.java` `<enter>`. Then `git status` `<enter>` to check on the status. The I wrote `git commit -m "added ListExamples.java"` `<enter>`.
+Then wrote `git status` `<enter>` once more to check that it has successfully commited. 
 
 
