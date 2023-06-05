@@ -2,6 +2,7 @@
 
 **Edstem Conversation**
 ![Edstem Debugging Post](post.png)
+TA Response
 ![Edstem TA Reponse](TA-response.png)
 
 **Student Implementation of Response**
